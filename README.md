@@ -1,4 +1,4 @@
-### Hi there 👋
+**`Senior React Developer • Contractor • Freelancer ~ Implementing clean and scalable web apps.`**
 
 <!--
 **andyvarvescu/andyvarvescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
